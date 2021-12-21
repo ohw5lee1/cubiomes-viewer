@@ -34,6 +34,7 @@ CONFIG += static
 CONFIG += lrelease embed_translations
 
 TRANSLATIONS += \
+        languages/zh_CN.ts \
 	languages/en_US.ts
 
 
